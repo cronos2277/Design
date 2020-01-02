@@ -2,7 +2,7 @@
 <br />
 <h2>Cartão De Visita</h2>
 <hr>
-<img src="./card/Artboard1.png"/>
-<img src="./card/Artboard1.png"/>
+<img src="Artboard1.png"/>
+<img src="Artboard2.png"/>
 <br />
 
