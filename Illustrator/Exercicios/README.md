@@ -21,5 +21,5 @@
 <br />
 <h2>Sanduiche</h2>
 <hr>
-<img src="Sanduiche.jpg" style='width:33%'/>
+<img src="Sanduiche.jpg"/>
 <br />
