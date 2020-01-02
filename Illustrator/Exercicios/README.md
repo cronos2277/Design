@@ -2,8 +2,10 @@
 <br />
 <h2>Cartão De Visita</h2>
 <hr>
-<img src="./card/Artboard1.png" style='width:50%'/>
-<img src="./card/Artboard1.png" style='width:50%'/>
+<div>
+    <img src="./card/Artboard1.png" style='width:50%'/>
+    <img src="./card/Artboard1.png" style='width:50%'/>
+ </div>   
 <br />
 <h2>Flayer</h2>
 <hr>
