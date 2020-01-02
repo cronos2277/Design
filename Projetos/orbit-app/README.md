@@ -6,4 +6,4 @@ Instala todas as fontes da pasta Fontes, o arquivo principal é o <b>Orbit APP.p
 <br /><br />
 <h2>Mobile</h2>
 <hr>
-<img src="Mobile.png"/>
+<center><img src="Mobile.png"/></center>
